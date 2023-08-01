@@ -275,4 +275,12 @@ body {
   margin-bottom: 3rem;
 }
 
+/* MEDIA QUERIES */
 
+@media screen and (max-width: 390px), (max-width: 414px) {
+  .homePageFlex {
+    margin-top: 5rem;
+    width: 90%;
+    padding: 10px;
+  }
+}
